@@ -1,0 +1,23 @@
+{
+  "name": "DSA",
+  "version": "1.0.0",
+  "description": "Here is my cleaned up version of data structures and algorithms. Tests and UML diagrams are provided in each Data structure folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiratap/DSA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiratap/DSA/issues"
+  },
+  "homepage": "https://github.com/shiratap/DSA#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
