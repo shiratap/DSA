@@ -14,13 +14,4 @@ describe('Node unit testing', () => {
   it('Should have a next value of null when instantiated', () => {
     expect(TestNode.next).toBeNull();
   });
-  it('Should have a Right Child value of null when instantiated', () => {
-    expect(TestNode.RightChild).toBeNull();
-  });
-  it('Should have a Left Child value of null when instantiated', () => {
-    expect(TestNode.LeftChild).toBeNull();
-  });
-  it('Should have a previous value of null when instantiated', () => {
-    expect(TestNode.previous).toBeNull();
-  });
 });

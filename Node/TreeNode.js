@@ -1,8 +1,8 @@
 'use strict';
-
 module.exports = class Node {
   constructor(value) {
     this.value = value;
-    this.next = null;
+    this.rightChild = null;
+    this.leftChild = null;
   }
 };

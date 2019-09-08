@@ -3,7 +3,7 @@
 Here is my cleaned up version of data structures and algorithms. Tests are
 provided for each data structure to test class method functionality.
 
-- [Node Module]()
+- [Nodes (Linked Lists, Trees)]()
 - [Singly Linked List]()
 - [Doubly Linked List]()
 - [Stack]()
