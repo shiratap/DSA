@@ -7,24 +7,34 @@ provided for each data structure to test class method functionality.**
 
 ## Data Structures
 
-### [Nodes (Linked Lists, Trees)](https://github.com/shiratap/DSA/tree/master/BinaryTree)
+## Finished:
 
-### [Singly Linked List]()
+### [Singly Linked List](https://github.com/shiratap/DSA/tree/master/DataStructures/SinglyLinkedLists)
 
-### [Doubly Linked List]()
+---
 
-### [Stack]()
+## Unfinished Documentation
 
-### [Queue]()
+### [Nodes (Linked Lists, Trees)](https://github.com/shiratap/DSA/tree/master/DataStructures/Node)
 
-### [Binary Tree]()
+### [Stack](https://github.com/shiratap/DSA/tree/master/DataStructures/Stack)
 
-### [Hashtable]()
+### [Queue](https://github.com/shiratap/DSA/tree/master/DataStructures/Queue)
 
-### [Graphs]()
+### [Binary Tree](https://github.com/shiratap/DSA/tree/master/DataStructures/BinaryTree)
+
+---
+
+## Unfinished Code & Documentation
+
+### [Doubly Linked List](https://github.com/shiratap/DSA/tree/master/DataStructures/DoublyLinkedLists)
+
+### [Hashtable](https://github.com/shiratap/DSA/tree/master/DataStructures/Hashtable)
+
+### [Graphs](https://github.com/shiratap/DSA/tree/master/DataStructures/Graph)
 
 ---
 
 ## Sorting Algorithms
 
-### [Bubble Sort]()
+### [Bubble Sort](https://github.com/shiratap/DSA/tree/master/Sorting/bubble)

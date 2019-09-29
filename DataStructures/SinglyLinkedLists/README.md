@@ -9,7 +9,7 @@ const singlyLinkedList = new SLL();
 
 ---
 
-## Methods
+# Methods
 
 ```js
 singlyLinkedList.Add(value);
@@ -28,6 +28,8 @@ singlyLinkedList.Add(value);
   - All cases, Needs to reach the end of the chain in order to add the node
 - Space: O(1)
   - Is adding a singular node and reassigning a iterator
+
+---
 
 ```js
 singlyLinkedList.Contains(value);
@@ -55,6 +57,8 @@ singlyLinkedList.Contains(value);
 - Space: O(1)
   - There's an iterator variable
 
+---
+
 ```js
 singlyLinkedList.Occurances(value);
 ```
@@ -80,6 +84,8 @@ singlyLinkedList.Occurances(value);
 - Space: 0(1)
   - One iterator variable, one counter variable
 
+---
+
 ```js
 singlyLinkedList.Size();
 ```
@@ -101,12 +107,12 @@ singlyLinkedList.Size();
 
 ---
 
-## Future implementations
+# Future implementations
 
 - Deletion methods
 - Insertions before and after specified nodes
 
-## Code
+# Code
 
 ```js
 'use strict';

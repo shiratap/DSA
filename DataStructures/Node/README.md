@@ -1,6 +1,6 @@
 # Node Class
 
-A basic Node. It has the given properties:
+### Constructor
 
 ```js
 const node = new Node(value);
@@ -38,20 +38,31 @@ const node = new Node(value);
 - create getters for each property
 - create setters for each property
 
-### UML
+<!-- ### UML -->
 
-![Node UML](../../assets/node.jpg)
+<!-- ![Node UML](../../assets/node.jpg) -->
 
-### Code
+## Code
+
+### Basic (LL, Stack, Queue) Node
 
 ```js
 class Node {
   constructor(value) {
     this.value = value;
     this.next = null;
-    this.RightChild = null;
-    this.LeftChild = null;
-    this.previous = null;
+  }
+}
+```
+
+### Tree Node
+
+```js
+class Node {
+  constructor(value) {
+    this.value = value;
+    this.rightChild = null;
+    this.leftChild = null;
   }
 }
 ```
