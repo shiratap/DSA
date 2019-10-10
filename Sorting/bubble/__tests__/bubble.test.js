@@ -1,7 +1,7 @@
 'use strict';
 const bubble = require('../bubble.js');
-const testCases = require('../unsortedArr.js');
-const testCaseAnswers = require('../sortedArr.js');
+const testCases = require('../../unsortedArr.js');
+const testCaseAnswers = require('../../sortedArr.js');
 
 let testCase1 = testCases.one;
 let testCase2 = testCases.two;
