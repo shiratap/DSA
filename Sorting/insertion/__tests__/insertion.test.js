@@ -1,5 +1,5 @@
 'use strict';
-const bubble = require('../bubble.js');
+const insertion = require('../insertion.js');
 const testCases = require('../../unsortedArr.js');
 const testCaseAnswers = require('../../sortedArr.js');
 
@@ -13,8 +13,8 @@ const testCaseAnswers3 = testCaseAnswers.three;
 
 describe('Bubble Sort Testing', () => {
   it('Should sort an unsorted array', () => {
-    expect(bubble(testCase1)).toEqual(testCaseAnswers1);
-    expect(bubble(testCase2)).toEqual(testCaseAnswers2);
-    expect(bubble(testCase3)).toEqual(testCaseAnswers3);
+    expect(insertion(testCase1)).toEqual(testCaseAnswers1);
+    expect(insertion(testCase2)).toEqual(testCaseAnswers2);
+    expect(insertion(testCase3)).toEqual(testCaseAnswers3);
   });
 });
