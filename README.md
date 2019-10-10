@@ -38,3 +38,7 @@ provided for each data structure to test class method functionality.**
 ## Sorting Algorithms
 
 ### [Bubble Sort](https://github.com/shiratap/DSA/tree/master/Sorting/bubble)
+
+### [Insertion Sort](https://github.com/shiratap/DSA/tree/master/Sorting/insertion)
+
+### [Merge Sort](https://github.com/shiratap/DSA/tree/master/Sorting/merge)
