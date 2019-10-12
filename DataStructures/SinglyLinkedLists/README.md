@@ -1,3 +1,5 @@
+[Back to Data Structures](https://github.com/shiratap/DSA/tree/master/DataStructures)
+
 # Singly Linked List Class
 
 This is the singly linked list data structure. Below describes the functionality
